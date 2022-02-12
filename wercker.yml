@@ -1,4 +1,4 @@
-﻿box: mcr.microsoft.com/dotnet/aspnet:6.0
+box: mcr.microsoft.com/dotnet/sdk:6.0
 no-response-timeout: 10
 build:
 	steps:
