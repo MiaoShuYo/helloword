@@ -24,6 +24,6 @@ deploy:
         - internal/docker-push:
             username: $USERNAME
             password: $PASSWORD
-            repository: dotnetcoreservices/hello-world
+            repository: programercat/helloworld
             registry: htpps://registry.hub.docker.com
             entrtpoint: "/pipeline/source/app/docker_entrypoint.sh"
