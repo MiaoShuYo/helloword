@@ -27,4 +27,4 @@ deploy:
             repository: programercat/helloworld
             registry: htpps://registry.hub.docker.com
             entrtpoint: "/pipeline/source/app/docker_entrypoint.sh"
-            ports: "80"
+            ports: "443"
