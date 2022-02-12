@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OlH3wpOfU3+XbrwB0jJbGv9puU7F2uCMhzv8r/Iw+phOXphZuQbAmyaaPw7tqPHJ9VbvE/VMG9JyEPc/B4hDfg==",
+  "success": true,
+  "projectFilePath": "D:\\project\\微服务\\01_02\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
